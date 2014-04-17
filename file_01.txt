@@ -2,12 +2,9 @@ make change 001
 
 make a change 002
 
-<<<<<<< HEAD
+
 make a change 003
 
 added 004
 
 added in build5 
-=======
-make a change 003
->>>>>>> c57e716534c8b5991420df3af132d4a092d24572
